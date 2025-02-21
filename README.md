@@ -34,6 +34,9 @@ Passionate about coding, robotics, and shaping the next generation of tech innov
 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalhammad95&show_icons=true&theme=dark)  
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vishalhammad95&theme=darkhub)
+
+
 ## 🌍 Connect with Me  
 (https://github.com/vishalhammad95)  
 
