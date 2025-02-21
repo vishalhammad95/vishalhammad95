@@ -31,6 +31,8 @@ Passionate about coding, robotics, and shaping the next generation of tech innov
 - Linux & Windows  
 - Cloud Platforms (AWS, Firebase)  
 
+📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalhammad95&show_icons=true&theme=dark)  
 
 ## 🌍 Connect with Me  
 (https://github.com/vishalhammad95)  
