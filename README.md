@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**vishalhammad95/vishalhammad95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+**👨‍🏫 PGT Computer Science & Robotics trainer | Neiil World School**  
+Passionate about coding, robotics, and shaping the next generation of tech innovators. I love exploring new technologies, building projects, and sharing knowledge. Always eager to learn and contribute to the world of open-source!  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages:  
+- Python 🐍  
+- C++  
+- Java  
+- JavaScript  
+- HTML & CSS  
+
+### ⚙️ Development & Frameworks:  
+- Arduino & Raspberry Pi  
+- Flask / Django (Python Web Development)  
+- React.js (Frontend Development)  
+- Node.js  
+
+### 🤖 Robotics & Hardware:  
+- Arduino IDE  
+- Raspberry Pi  
+- IoT & Embedded Systems  
+- AI & Machine Learning (Basic)  
+
+### 🛠️ Tools & Platforms:  
+- Git & GitHub  
+- VS Code / PyCharm / Eclipse  
+- Linux & Windows  
+- Cloud Platforms (AWS, Firebase)  
+
+
+## 🌍 Connect with Me  
+(https://github.com/vishalhammad95)  
+
+---  
+💡 *"Technology is best when it brings people together."* – Matt Mullenweg  
