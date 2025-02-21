@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 🚀 About Me  
-**👨‍🏫 PGT Computer Science & Robotics trainer | Neiil World School**  
+**👨‍🏫 PGT Computer Science & Robotics Trainer | Neiil World School**  
 Passionate about coding, robotics, and shaping the next generation of tech innovators. I love exploring new technologies, building projects, and sharing knowledge. Always eager to learn and contribute to the world of open-source!  
 
 ## 🔧 Skills & Technologies  
